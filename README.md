@@ -1,5 +1,5 @@
 # FREE DEV TOOLS
-**Star The Repo Or You Gay🏳️‍🌈**
+**Star The Repo if you love free stuffs😑**
 
 ## Google Cloud ☁️
 [+] **App Engine** -28 frontend instance hours per day, 9 backend instance hours per day \
